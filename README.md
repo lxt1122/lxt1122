@@ -22,19 +22,13 @@ Edit guide:
 - &#8287; adds visual spacing between icons
 -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/xtli168">
-    <img width="32px" title="LinkedIn" src="https://readmecodegen.vercel.app/api/social-icon?name=linkedin&amp;bg=%230077b5&amp;shape=circle&amp;theme=dark&amp;size=32" alt="LinkedIn"/>
-  </a>
+  <a href="https://www.linkedin.com/in/xtli168"><img width="32px" title="LinkedIn" src="https://readmecodegen.vercel.app/api/social-icon?name=linkedin&amp;bg=%230077b5&amp;shape=circle&amp;theme=dark&amp;size=32" alt="LinkedIn"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 
-  <a href="INDEED_URL">
-    <img width="32px" title="Indeed" src="https://readmecodegen.vercel.app/api/social-icon?name=indeed&amp;bg=%23003A9B&amp;shape=circle&amp;theme=dark&amp;size=32" alt="Indeed"/>
-  </a>
+  <a href="INDEED_URL"><img width="32px" title="Indeed" src="https://readmecodegen.vercel.app/api/social-icon?name=indeed&amp;bg=%23003A9B&amp;shape=circle&amp;theme=dark&amp;size=32" alt="Indeed"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 
-  <a href="X_URL">
-    <img width="32px" title="X" src="https://readmecodegen.vercel.app/api/social-icon?name=x&amp;bg=%23000000&amp;shape=circle&amp;theme=dark&amp;size=32" alt="X"/>
-  </a>
+  <a href="X_URL"><img width="32px" title="X" src="https://readmecodegen.vercel.app/api/social-icon?name=x&amp;bg=%23000000&amp;shape=circle&amp;theme=dark&amp;size=32" alt="X"/></a>
 </p>
 
 </div>
@@ -56,7 +50,7 @@ Hardcoded from resume:
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?style=for-the-badge&logo=database&logoColor=white" alt="SQL"/>
   <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
 </p>
 
@@ -76,7 +70,7 @@ Hardcoded from resume:
   <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy"/>
   <img src="https://img.shields.io/badge/Alembic-333333?style=for-the-badge" alt="Alembic"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="Pytest"/>
   <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" alt="Vitest"/>
