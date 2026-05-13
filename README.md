@@ -22,18 +22,18 @@ Edit guide:
 - &#8287; adds visual spacing between icons
 -->
 <p align="center">
-  <a href="www.linkedin.com/in/xtli168">
-    <img width="32px" title="LinkedIn" src="https://i.imgur.com/Y9lbNqu.png" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/xtli168">
+    <img width="32px" title="LinkedIn" src="https://readmecodegen.vercel.app/api/social-icon?name=linkedin&amp;bg=%230077b5&amp;shape=circle&amp;theme=dark&amp;size=32" alt="LinkedIn"/>
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 
   <a href="INDEED_URL">
-    <img width="32px" title="Indeed" src="IMGUR_INDEED_ICON_URL" alt="Indeed"/>
+    <img width="32px" title="Indeed" src="https://readmecodegen.vercel.app/api/social-icon?name=indeed&amp;bg=%23003A9B&amp;shape=circle&amp;theme=dark&amp;size=32" alt="Indeed"/>
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 
   <a href="X_URL">
-    <img width="32px" title="X" src="IMGUR_X_ICON_URL" alt="X"/>
+    <img width="32px" title="X" src="https://readmecodegen.vercel.app/api/social-icon?name=x&amp;bg=%23000000&amp;shape=circle&amp;theme=dark&amp;size=32" alt="X"/>
   </a>
 </p>
 
@@ -56,7 +56,7 @@ Hardcoded from resume:
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
 </p>
 
@@ -68,8 +68,6 @@ Hardcoded from resume:
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 </p>
 
 <h4 align="center">Data, DevOps & Testing</h4>
