@@ -22,7 +22,7 @@ Edit guide:
 - &#8287; adds visual spacing between icons
 -->
 <p align="center">
-  <a href="LINKEDIN_URL">
+  <a href="www.linkedin.com/in/xtli168">
     <img width="32px" title="LinkedIn" src="https://i.imgur.com/Y9lbNqu.png" alt="LinkedIn"/>
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
