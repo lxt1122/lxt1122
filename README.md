@@ -21,7 +21,7 @@ Edit guide:
 - src: replace with the Imgur PNG icon URL if you want a different icon
 - &#8287; adds visual spacing between icons
 -->
-<p align="center"><a href="https://www.linkedin.com/in/xtli168"><img width="32px" height="32px" title="LinkedIn" src="https://readmecodegen.vercel.app/api/social-icon?name=linkedin&amp;bg=%230077b5&amp;shape=circle&amp;theme=dark&amp;size=32" alt="LinkedIn"/></a>&#8287;&#8287;&#8287;&#8287;&#8287;<a href="INDEED_URL"><img width="32px" height="32px" title="Indeed" src="https://readmecodegen.vercel.app/api/social-icon?name=indeed&amp;bg=%23003A9B&amp;shape=circle&amp;theme=dark&amp;size=32" alt="Indeed"/></a>&#8287;&#8287;&#8287;&#8287;&#8287;<a href="X_URL"><img width="32px" height="32px" title="X" src="https://readmecodegen.vercel.app/api/social-icon?name=x&amp;bg=%23000000&amp;shape=circle&amp;theme=dark&amp;size=32" alt="X"/></a></p>
+<p align="center"><a href="https://www.linkedin.com/in/xtli168"><img width="32px" height="32px" title="LinkedIn" src="https://readmecodegen.vercel.app/api/social-icon?name=linkedin&amp;bg=%230077b5&amp;shape=circle&amp;theme=dark&amp;size=32" alt="LinkedIn"/></a>&#8287;&#8287;&#8287;&#8287;&#8287;<a href="INDEED_URL"><img width="32px" height="32px" title="Indeed" src="https://readmecodegen.vercel.app/api/social-icon?name=indeed&amp;bg=%23003A9B&amp;shape=circle&amp;theme=dark&amp;size=32" alt="Indeed"/></a>&#8287;&#8287;&#8287;&#8287;&#8287;<a href="https://bit.ly/4twEvrq"><img width="32px" height="32px" title="X" src="https://readmecodegen.vercel.app/api/social-icon?name=x&amp;bg=%23000000&amp;shape=circle&amp;theme=dark&amp;size=32" alt="X"/></a></p>
 
 </div>
 
